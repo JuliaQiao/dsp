@@ -24,4 +24,4 @@ cohens_d = mean_diff/np.sqrt(pooled_var) cohens_d
 
 Answer: -0.088672927072602
 
-My output was negative, but Cohen's D is interpreted as an absolute number. this is much higher than 0.029 --the difference in pregnancy length. However, it's still low and doesn't look statistically significant.
+0.089, in absolute terms, is larger than 0.029 (pregnancy length) but still low when thinking about the context. This means that there is a 0.089 difference in the standard deviation between the means of the two groups (the mean of the first babies being smaller than other babies). Given the textbook example of there being a 1.7 standard deviations difference between male and female heights--a great example of a significant difference, I have to conclude that 0.089 is simply too low to be significant in this context.
