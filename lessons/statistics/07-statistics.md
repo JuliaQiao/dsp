@@ -114,7 +114,7 @@ After doing the calculations, I get 5/11
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentist statistics focuses on events that are long term, often repeated, and do not use probability to predict values that may be unknown or one time events. Bayesian statistics, on the other hand, is all about using probability to predict unknown or one time events-- using new evidence to continuously update the hypothesis. In my interpretation, most of the probability that we see in data science is Bayesian--trying to predict probabilties with what we have, while acknowledging we may not have all the information/know all the factors but do our best to continuously update our knowledge. Whereas frequentist probabiility would not apply to an instance where we rely on prior probabilities. 
 
 ---
 
